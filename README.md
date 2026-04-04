@@ -1,1 +1,1 @@
-# GCRAtt-UNet3D
+GTokAttRes-UNet
